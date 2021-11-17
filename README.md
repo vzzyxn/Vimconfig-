@@ -7,5 +7,7 @@
 <br><li> :x - del char </li>
 <br><li> :c - del line </li>
 <br><li> :w - save </li>
+<br><li> :new - open new file </li> 
+<br><li> :exit - exit file </li>
 <br><li> :q - quit </li>
 <br><li> :wq - save|quit </li>
