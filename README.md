@@ -11,3 +11,6 @@
 <br><li> :exit - exit file </li>
 <br><li> :q - quit </li>
 <br><li> :wq - save|quit </li>
+<br>
+<pre>More</pre>
+<br><li> :syntax on/off - highlighting the sytnax </li>
