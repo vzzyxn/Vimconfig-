@@ -13,4 +13,4 @@
 <br><li> :wq - save|quit </li>
 <br>
 <pre>More Commands </pre>
-<br><li> :syntax on/off - highlighting the sytnax </li>
+<li> :syntax on/off - highlighting the sytnax </li>
