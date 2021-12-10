@@ -19,6 +19,7 @@ directory</ul>
 <i>Creating .vimrc Windows</i>
 <pre>cmd>>vim ~/.vimrc</pre>
 <p>Here the code contains the basic vim confg <a href="https://github.com/amix/vimrc/blob/master/vimrcs/basic.vim">the basic vim</a>
+
 <pre>
 @.vimrc {
 author = {Vignesh},
