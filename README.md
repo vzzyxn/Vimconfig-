@@ -12,5 +12,4 @@
 <br><li> :q - quit </li>
 <br><li> :wq - save|quit </li>
 <br>
-<pre>More Commands </pre>
-<li> :syntax on/off - highlighting the sytnax </li>
+<h1>.vimrc</h1>
