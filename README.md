@@ -13,3 +13,9 @@
 <br><li> :wq - save|quit </li>
 <br>
 <h1>.vimrc</h1>
+<ul>Updating the .vimrc file is an essential part when 
+configuring Vim.So make sure to save the .vimrc in path 
+directory</ul>
+<i>Creating .vimrc Windows</i>
+<pre>cmd>>vim ~/.vimrc</pre>
+<p>Here the code contains the basic vim confg <a href="https://github.com/amix/vimrc/blob/master/vimrcs/basic.vim">the basic vim</a>
