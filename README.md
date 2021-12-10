@@ -21,7 +21,8 @@ directory</ul>
 <p>Here the code contains the basic vim confg <a href="https://github.com/amix/vimrc/blob/master/vimrcs/basic.vim">the basic vim</a>
 <pre>
 @.vimrc {
-credits = {amix,theprimeagen}
+author = {Vignesh},
+credits = {amix,theprimeagen},
 year = {2021}
 }
 
